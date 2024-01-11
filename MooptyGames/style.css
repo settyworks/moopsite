@@ -1,0 +1,26 @@
+*{
+    font-family: monospace;
+}
+.navigation {
+    background-color: orange;
+    color: green;
+    font-family: monospace;
+    width: 100%;
+    
+}
+.navigation li{
+    font-size: large;
+    text-align: center;
+    display: inline-block;
+}
+h2 {
+    border: solid green 4px;
+    background-color: orange;
+    color: green;
+    text-align: center;
+    font-family: monospace;
+    margin: 0 auto;
+}
+article {
+    color: green;
+}
